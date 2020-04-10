@@ -21,3 +21,11 @@ To learn more about the background of the dataset, and the AIFR  you must visit 
 # You must cite this paper if you use the idea:
 
 Patel, P., and A. Ganatra. "Investigate age invariant face recognition using PCA, LBP, Walsh Hadamard transform with a neural network." International Conference on Signal and Speech Processing (ICSSP-14). 2014.
+##BibTex
+@inproceedings{patel2014investigate,
+  title={Investigate age invariant face recognition using PCA, LBP, Walsh Hadamard transform with neural network},
+  author={Patel, P and Ganatra, A},
+  booktitle={International Conference on Signal and Speech Processing (ICSSP-14)},
+  pages={266--274},
+  year={2014}
+}
