@@ -7,8 +7,7 @@
 -->WHT- Walsh-Hadamard Transform(WHT) for orthogonal transformation is used for feature extraction. Before applying LBP here I applied the first Walsh-Hadamard Transform (WHT) for orthogonal transformation. 
 
 # AIFR Poster
-https://user-images.githubusercontent.com/34878256/78976068-14c19180-7b33-11ea-9d21-05bf0bdb4ef9.PNG
-
+https://github.com/Priyanka154/-Age-Invariant-Face-Recognition/issues/2#issue-597764017
 
 #link of the paper for whole process flow: https://www.researchgate.net/profile/Priyanka_Patel8/publication/315892151_Investigate_Age_Invariant_Face_Recognition_Using_PCA_LBP_Walsh_Hadamard_Transform_with_Neural_Network/links/58ec89e40f7e9b6b274bb17c/Investigate-Age-Invariant-Face-Recognition-Using-PCA-LBP-Walsh-Hadamard-Transform-with-Neural-Network.pdf 
 
