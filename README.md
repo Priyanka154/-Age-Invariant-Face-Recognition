@@ -1,7 +1,4 @@
 # Age-Invarient-Face-Recognization-AIFR
-https://www.researchgate.net/publication/315892151_Investigate_Age_Invariant_Face_Recognition_Using_PCA_LBP_Walsh_Hadamard_Transform_with_Neural_Network/figures?lo=1&utm_source=google&utm_medium=organic
-
-https://www.researchgate.net/publication/315892151_Investigate_Age_Invariant_Face_Recognition_Using_PCA_LBP_Walsh_Hadamard_Transform_with_Neural_Network/figures?lo=1&utm_source=google&utm_medium=organic
 
 -->PCA-for dimensionality reduction. 
 
